@@ -87,7 +87,7 @@ class _MyLoginState extends State<MyLogin> {
                             Get.to(() => Forgot());
                           },
                           child: Text(
-                            "Forgot?",
+                            "Forgot? ",
                             style: TextStyle(
                                 fontSize: 17, color: Color(0xFFD5715B)),
                           )),
